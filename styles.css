@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto';font-size: 18px;
+
+}
+
+header{
+    background-color: #1F2937 ;
+    color: white;
+}
+
+p, button{
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #1F2937 ;
+    color: white;
+    text-align: center;
+    height: 1cm;
+}
+
+
+.navHeader{
+    display: inline-block;
+    
+}
+
+
+.navHeader h4{
+    display: inline-block;
+    margin-right: 400px;
+    margin-left: 100px;
+
+}
+
+section{
+    display: inline-block;
+
+}
+section img{
+    background-color: gray;
+
+
+}
