@@ -1,5 +1,13 @@
+@font-face {
+    font-family:'Roboto';
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 body{
-    font-family: 'Roboto';font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
 
 }
 
@@ -8,9 +16,28 @@ header{
     color: white;
 }
 
+.navHeader{
+    display: inline-block;
+}
+
+.navHeader h4{
+    display: inline-block;
+    padding-right: 260px;
+    margin-left: 100px;
+}
+
+.navHeader a{
+    display: inline-block;
+    padding-left: 10px;
+    color: white; 
+    text-decoration: none
+}
+
+
 p, button{
     background-color: #3882F6;
     border-radius: 10px;
+    border: none !important;
 }
 
 footer{
@@ -21,25 +48,18 @@ footer{
 }
 
 
-.navHeader{
-    display: inline-block;
-    
+
+
+.section1{
+    background-color: #1F2937 ;
+    color: white;
+    margin-top: -26px;
+    padding: 100px ;
 }
-
-
-.navHeader h4{
-    display: inline-block;
-    margin-right: 400px;
-    margin-left: 100px;
-
-}
-
-section{
-    display: inline-block;
-
-}
-section img{
+.section1 img{
     background-color: gray;
+    width: 100px;
 
 
 }
+
