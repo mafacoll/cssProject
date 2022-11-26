@@ -8,7 +8,6 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-
 }
 
 header{
@@ -33,13 +32,61 @@ header{
     text-decoration: none
 }
 
-
 p, button{
     background-color: #3882F6;
+    color: white;
     border-radius: 10px;
     border: none !important;
+    padding: 10px 20px;
+    margin-top: 25px;
+
 }
 
+.section1{
+    background-color: #1F2937 ;
+    color: white;
+    margin-top: -20px;
+    padding: 100px ;
+    column-count: 2;
+    padding-bottom: 160px;
+    white-space: break-spaces;
+
+}
+ 
+.section1 img{
+    background-color: gray;
+    display:block;
+    height:180px;
+    width:250x;
+    text:center;
+
+
+}
+
+#info{
+    text-align: center;
+}
+section figure{
+    width: 50px;
+    height: 50px;
+    border: 4px solid;
+    border-color: #38827F6;
+
+    margin: -10px;
+    float: left;
+    margin-left: 150px;
+    
+
+}
+
+blockquote{
+    background-color: #e5e7eb;
+    padding-right: 260px;
+    margin-left: 100px;
+    margin-top: 20000px;
+
+}
+    
 footer{
     background-color: #1F2937 ;
     color: white;
@@ -50,16 +97,4 @@ footer{
 
 
 
-.section1{
-    background-color: #1F2937 ;
-    color: white;
-    margin-top: -26px;
-    padding: 100px ;
-}
-.section1 img{
-    background-color: gray;
-    width: 100px;
-
-
-}
 
