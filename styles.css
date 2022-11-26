@@ -39,27 +39,29 @@ p, button{
     border: none !important;
     padding: 10px 20px;
     margin-top: 25px;
+    margin-left: -40px
 
 }
 
 .section1{
     background-color: #1F2937 ;
     color: white;
-    margin-top: -20px;
-    padding: 100px ;
+    margin-top: 0px;
+    padding: 80px ;
     column-count: 2;
     padding-bottom: 160px;
     white-space: break-spaces;
-
 }
  
+.section1 h1{
+    margin
+}
 .section1 img{
     background-color: gray;
     display:block;
     height:180px;
     width:250x;
-    text:center;
-
+    margin-top: 50px;
 
 }
 
