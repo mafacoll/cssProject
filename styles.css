@@ -79,8 +79,6 @@ section figure{
 
     margin-top: 15px;
     text-align: center;
-    
-
 }
 
 figcaption{
@@ -100,12 +98,23 @@ blockquote{
     margin-right: 100px;
     padding: 140px;
 }
-    
+
+section p{
+    text-align: left;
+    margin: 80px;
+}
+
+section p button{
+    margin-left: 600px;
+    border-color:white;
+
+}
+
 footer{
     background-color: #1F2937 ;
     color: white;
     text-align: center;
-    height: 1cm;
+    padding: 20px;
 }
 
 
